@@ -1,0 +1,1 @@
+nơi lưu mã nguồn cho firmware, software.

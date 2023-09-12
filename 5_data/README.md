@@ -1,0 +1,1 @@
+Nơi lưu để lưu data cho quá trình train modeL: link, file dữ liệu

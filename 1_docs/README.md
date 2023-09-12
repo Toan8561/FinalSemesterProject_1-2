@@ -1,0 +1,1 @@
+Nơi lưu các file .ppt, .word, .pdf, .txt
